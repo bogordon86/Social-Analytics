@@ -10,3 +10,7 @@ score per news outlet is not too far from 0.
 
 #3 In the Overall compound sentiment for Friday evening (Dec 15), all of the news outlets tend towards negative polarity.  
 CBS is the #most negative (-.18) then BBC (-.07), followed by CNN and Fox (-.46) and then the New York Times (-.025).
+
+Refer to NewsMood2.md to view all the code & Visualizations.
+
+
