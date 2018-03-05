@@ -1,5 +1,5 @@
 # Social-Analytics
-Using Twitter API to analyze sentiments of major news outlets
+Below are the results of using the Twitter API to analyze sentiments of major news outlets.
 
 **Analysis**
 #1 Based on the compound analysis of each news organization, their tweets seem to be fairly distributed between positive 
