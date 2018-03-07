@@ -15,8 +15,8 @@ Refer to NewsMood2.md to view all the code
 
 Here are the visualizations:
 
-<a href="" target=_blank> </a>
+<a href="output_5_0.png" target=_blank> </a>
 
-<a href="" target=_blank> </a>
+<a href="output_6_0.png" target=_blank> </a>
 
 
